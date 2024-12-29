@@ -1,5 +1,4 @@
-## Hi there 👋
-# Bhavdeep Singh - Full Stack Developer
+** Bhavdeep Singh - Full Stack Developer**
 
 ## Skills:
 - **Languages**: Java, Python, JavaScript, C++, C#, HTML, CSS
