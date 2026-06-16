@@ -119,15 +119,6 @@ Amity University, India
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=bhavdeepp&show_icons=true&theme=default" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhavdeepp&layout=compact&theme=default" alt="Top Languages" />
-</p>
-
----
-
 ## 🌟 Featured Expertise
 
 🔹 Salesforce Development  
