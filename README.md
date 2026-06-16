@@ -21,55 +21,6 @@ I enjoy building scalable Salesforce applications, integrating enterprise system
 
 ---
 
-## 🛠️ Technical Skills
-
-### Salesforce Development
-
-- Apex
-- Apex Triggers
-- Batch Apex
-- Async Apex
-- SOQL & SOSL
-- Lightning Web Components (LWC)
-- Visualforce
-- Salesforce DX (SFDX)
-
-### Salesforce Administration
-
-- Profiles & Permission Sets
-- User Management
-- Validation Rules
-- Flows
-- Reports & Dashboards
-- Approval Processes
-- Data Security
-
-### Integration & APIs
-
-- REST APIs
-- SOAP APIs
-- Middleware Integrations
-- Platform Connectivity
-- Postman
-
-### Programming
-
-- Java
-- Spring Boot
-- SQL
-
-### Tools & Methodologies
-
-- GitHub
-- GitLab
-- ServiceNow
-- VS Code
-- Agile / Scrum
-- CI/CD
-- SDLC
-
----
-
 ## 🏆 Salesforce Certifications
 
 | Certification | Status |
@@ -79,6 +30,30 @@ I enjoy building scalable Salesforce applications, integrating enterprise system
 | Salesforce Certified AI Associate | ✅ |
 | Salesforce Certified Administrator | ✅ |
 
+---
+
+## 🛠️ Technical Skills
+
+### Salesforce Development
+
+- Apex, Apex Triggers, Batch Apex, Async Apex, SOQL & SOSL, Lightning Web Components (LWC), Visualforce, Salesforce DX (SFDX)
+
+### Salesforce Administration
+
+- Profiles & Permission Sets, User Management, Validation Rules, Flows, Reports & Dashboards, Approval Processes Data Security
+
+### Integration & APIs
+
+- REST APIs, SOAP APIs, Middleware Integrations, Platform Connectivity, Postman
+
+### Programming
+
+- Java, Spring Boot, SQL
+
+### Tools & Methodologies
+
+- GitHub, GitLab, ServiceNow, VS Code, Agile / Scrum, CI/CD, SDLC
+  
 ---
 
 ## 💼 Professional Experience
