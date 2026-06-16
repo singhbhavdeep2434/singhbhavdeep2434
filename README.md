@@ -1,43 +1,286 @@
-# Bhavdeep Singh - Full Stack Developer
+👋 Hi, I'm Bhavdeep Singh
+🚀 Salesforce Platform Engineer | Salesforce Certified Developer | Agentforce Specialist
+💡 About Me
 
-## Skills:
-- **Languages**: Java, Python, JavaScript, C++, C#, HTML, CSS
-- **Technologies**: React, Node.js, Express.js, Spring Boot, Microservices, REST APIs, Docker, AWS, PostgreSQL, MongoDB
-- **Tools**: Git, GitHub, Swagger, Postman
-- **Other**: Object-Oriented Programming, Data Structures, Machine Learning, Deep Learning
+Salesforce Platform Engineer with 2+ years of experience designing, developing, and deploying enterprise Salesforce solutions. Experienced in Apex, Lightning Web Components (LWC), Salesforce integrations, platform automation, and Agile delivery.
 
-## Professional Experience:
-### Programmer Analyst (Cognizant Technology Solutions)
-*August 2021 – May 2023*
-- Developed RESTful APIs and microservices using Spring Boot for smooth communication between backend and frontend.
-- Implemented security using JWT for authentication and Spring Security for API protection.
-- Collaborated with UI teams for seamless integration of frontend and backend services.
+I enjoy building scalable Salesforce applications, integrating enterprise systems, and exploring AI-powered solutions using Agentforce and Salesforce AI technologies.
 
-### Web Developer Intern (JS Environics)
-*April 2020 – June 2020*
-- Designed and developed websites using WordPress, improving performance and user experience.
+🛠️ Technical Skills
+Salesforce Development
+Apex
+Apex Triggers
+Batch Apex
+Async Apex
+SOQL & SOSL
+Lightning Web Components (LWC)
+Visualforce
+Salesforce DX (SFDX)
+Salesforce Administration
+Profiles & Permission Sets
+User Management
+Validation Rules
+Flows
+Reports & Dashboards
+Approval Processes
+Data Security
+Integration & APIs
+REST APIs
+SOAP APIs
+Middleware Integrations
+Platform Connectivity
+Postman
+Programming
+Java
+Spring Boot
+SQL
+Tools & Methodologies
+GitHub
+GitLab
+ServiceNow
+VS Code
+Agile / Scrum
+CI/CD
+SDLC
+🏆 Salesforce Certifications
+Certification	Status
+Salesforce Certified Platform Developer I	✅
+Salesforce Certified Agentforce Specialist	✅
+Salesforce Certified AI Associate	✅
+Salesforce Certified Administrator	✅
+💼 Professional Experience
+Programmer Analyst
 
-## Education:
-- **Post Graduate Certificate in Information Technology Solutions**
-  - Humber College, North Campus
+Cognizant Technology Solutions
+📍 Gurugram, India | Aug 2021 – May 2023
 
-- **Bachelor of Technology: Computer Science and Engineering**
-  - Amity School of Engineering and Technology, Amity University
+Developed enterprise Salesforce solutions using Apex, Triggers, Batch Apex, and Async Apex.
+Built Lightning Web Components (LWC) and customized Salesforce user experiences.
+Designed REST and SOAP integrations connecting Salesforce with external systems.
+Managed deployments using Salesforce DX and Change Sets.
+Collaborated in Agile/Scrum teams and participated in sprint planning and delivery.
+Implemented Flows, Validation Rules, Approval Processes, and security configurations.
+Provided production support and achieved high SLA compliance.
+Backend Developer Intern
 
-## Projects:
-### MD Analysis
-*Technologies: Machine Learning, Python, Flask, Spring Boot, LLM (Ollama 3)*
-- Developed an app to generate data insights and predictive models for users without prior ML knowledge.
+Think Swift
+📍 Toronto, Canada | Jan 2025 – Apr 2025
 
-### University Course Management System
-*Technologies: Spring Boot, React, PostgreSQL, REST APIs*
-- Developed a web app for course and student management with secure login and role-based access using JWT.
+Developed RESTful APIs and microservices using Spring Boot and MySQL.
+Implemented JWT authentication and email notification services.
+Participated in sprint planning, backlog grooming, and code reviews.
+Web Developer Intern
 
-## Certifications:
-- **Java Spring Framework 6 with Spring Boot 3**
-  
-## Languages:
-- English, Punjabi, Hindi
+JS Environics
+📍 Gurugram, India | Apr 2020 – Jun 2020
 
+Developed WordPress and WooCommerce solutions.
+Optimized website performance and managed backend databases.
+🎯 Areas of Interest
+Salesforce Platform Development
+Agentforce & AI Solutions
+Salesforce Integrations
+Enterprise Application Architecture
+Automation & Workflow Optimization
+Cloud Technologies
+🎓 Education
+Post Graduate Certificate
 
-Feel free to check out my repositories for more details on my projects and contributions.
+Information Technology Solutions
+Humber College, Toronto, Canada
+
+Bachelor of Technology
+
+Computer Science & Engineering
+Amity University, India
+
+📊 GitHub Stats
+🌟 Featured Expertise
+
+🔹 Salesforce Development
+🔹 Lightning Web Components (LWC)
+🔹 Apex & SOQL
+🔹 Agentforce
+🔹 Salesforce Administration
+🔹 Enterprise Integrations
+🔹 Java & Spring Boot
+
+📫 Let's Connect
+LinkedIn: https://www.linkedin.com/in/codebhavdeep
+Trailblazer: https://www.salesforce.com/trailblazer/bhavdeep
+
+⭐ Feel free to explore my repositories and connect with me for Salesforce, Agentforce, and cloud technology discussions.
+
+# 👋 Hi, I'm Bhavdeep Singh
+
+### 🚀 Salesforce Platform Engineer | Salesforce Certified Developer | Agentforce Specialist
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/codebhavdeep">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+  </a>
+  <a href="https://www.salesforce.com/trailblazer/bhavdeep">
+    <img src="https://img.shields.io/badge/Trailblazer-Profile-00A1E0?style=for-the-badge&logo=salesforce" alt="Trailblazer">
+  </a>
+</p>
+
+---
+
+## 💡 About Me
+
+Salesforce Platform Engineer with 2+ years of experience designing, developing, and deploying enterprise Salesforce solutions. Experienced in Apex, Lightning Web Components (LWC), Salesforce integrations, platform automation, and Agile delivery.
+
+I enjoy building scalable Salesforce applications, integrating enterprise systems, and exploring AI-powered solutions using Agentforce and Salesforce AI technologies.
+
+---
+
+## 🛠️ Technical Skills
+
+### Salesforce Development
+
+- Apex
+- Apex Triggers
+- Batch Apex
+- Async Apex
+- SOQL & SOSL
+- Lightning Web Components (LWC)
+- Visualforce
+- Salesforce DX (SFDX)
+
+### Salesforce Administration
+
+- Profiles & Permission Sets
+- User Management
+- Validation Rules
+- Flows
+- Reports & Dashboards
+- Approval Processes
+- Data Security
+
+### Integration & APIs
+
+- REST APIs
+- SOAP APIs
+- Middleware Integrations
+- Platform Connectivity
+- Postman
+
+### Programming
+
+- Java
+- Spring Boot
+- SQL
+
+### Tools & Methodologies
+
+- GitHub
+- GitLab
+- ServiceNow
+- VS Code
+- Agile / Scrum
+- CI/CD
+- SDLC
+
+---
+
+## 🏆 Salesforce Certifications
+
+| Certification | Status |
+|--------------|--------|
+| Salesforce Certified Platform Developer I | ✅ |
+| Salesforce Certified Agentforce Specialist | ✅ |
+| Salesforce Certified AI Associate | ✅ |
+| Salesforce Certified Administrator | ✅ |
+
+---
+
+## 💼 Professional Experience
+
+### Programmer Analyst
+
+**Cognizant Technology Solutions**  
+📍 Gurugram, India | Aug 2021 – May 2023
+
+- Developed enterprise Salesforce solutions using Apex, Triggers, Batch Apex, and Async Apex.
+- Built Lightning Web Components (LWC) and customized Salesforce user experiences.
+- Designed REST and SOAP integrations connecting Salesforce with external systems.
+- Managed deployments using Salesforce DX and Change Sets.
+- Collaborated in Agile/Scrum teams and participated in sprint planning and delivery.
+- Implemented Flows, Validation Rules, Approval Processes, and security configurations.
+- Provided production support and achieved high SLA compliance.
+
+---
+
+### Backend Developer Intern
+
+**Think Swift**  
+📍 Toronto, Canada | Jan 2025 – Apr 2025
+
+- Developed RESTful APIs and microservices using Spring Boot and MySQL.
+- Implemented JWT authentication and email notification services.
+- Participated in sprint planning, backlog grooming, and code reviews.
+
+---
+
+### Web Developer Intern
+
+**JS Environics**  
+📍 Gurugram, India | Apr 2020 – Jun 2020
+
+- Developed WordPress and WooCommerce solutions.
+- Optimized website performance and managed backend databases.
+
+---
+
+## 🎯 Areas of Interest
+
+- Salesforce Platform Development
+- Agentforce & AI Solutions
+- Salesforce Integrations
+- Enterprise Application Architecture
+- Automation & Workflow Optimization
+- Cloud Technologies
+
+---
+
+## 🎓 Education
+
+### Post Graduate Certificate
+
+**Information Technology Solutions**  
+Humber College, Toronto, Canada
+
+### Bachelor of Technology
+
+**Computer Science & Engineering**  
+Amity University, India
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=bhavdeepp&show_icons=true&theme=default" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhavdeepp&layout=compact&theme=default" alt="Top Languages" />
+</p>
+
+---
+
+## 🌟 Featured Expertise
+
+🔹 Salesforce Development  
+🔹 Lightning Web Components (LWC)  
+🔹 Apex & SOQL  
+🔹 Agentforce  
+🔹 Salesforce Administration  
+🔹 Enterprise Integrations  
+🔹 Java & Spring Boot
+
+---
+
+### 📫 Let's Connect
+
+- LinkedIn: [linkedin.com/in/codebhavdeep](https://www.linkedin.com/in/codebhavdeep)
+- Trailblazer: [salesforce.com/trailblazer/bhavdeep](https://www.salesforce.com/trailblazer/bhavdeep)
+
+⭐ Feel free to explore my repositories and connect with me for Salesforce, Agentforce, and cloud technology discussions.
