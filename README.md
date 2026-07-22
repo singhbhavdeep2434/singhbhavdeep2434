@@ -15,7 +15,7 @@
 
 ## 💡 About Me
 
-Salesforce Platform Engineer with 2+ years of experience designing, developing, and deploying enterprise Salesforce solutions. Experienced in Apex, Lightning Web Components (LWC), Salesforce integrations, platform automation, and Agile delivery.
+Salesforce Platform Engineer with 4+ years of experience designing, developing, and deploying enterprise Salesforce solutions. Experienced in Apex, Lightning Web Components (LWC), Salesforce integrations, platform automation, and Agile delivery.
 
 I enjoy building scalable Salesforce applications, integrating enterprise systems, and exploring AI-powered solutions using Agentforce and Salesforce AI technologies.
 
@@ -42,6 +42,10 @@ I enjoy building scalable Salesforce applications, integrating enterprise system
 
 - Profiles & Permission Sets, User Management, Validation Rules, Flows, Reports & Dashboards, Approval Processes Data Security
 
+### AI Agentforce
+
+- Ageneorce Builder (topics, ac]ons, instruc]ons configura]on), Prompt Builder (prompt templates, grounding with merge fields), Agent Actions
+
 ### Integration & APIs
 
 - REST APIs, SOAP APIs, Middleware Integrations, Platform Connectivity, Postman
@@ -58,6 +62,29 @@ I enjoy building scalable Salesforce applications, integrating enterprise system
 
 ## 💼 Professional Experience
 
+### Salesforce Developer/Admin
+
+**Laura Canada**  
+📍 Toronto, Canada | Jan 2025 – Current
+
+- Designed, developed, and deployed Apex Classes, Controller Extensions, Triggers, and Test Classes to support LWC
+page development and various func]onal and integra]on-specific business requirements.
+- Developed Lightning Web Components with custom Apex Classes to extend applica]on func]onality, including email
+templates and inbound email handling for clients and customers.
+- Created detailed data mapping documents for integra]ng Salesforce.com with external systems.
+- Integrated Salesforce with legacy systems using Apex Web Services, outbound messaging, and REST API callouts.
+- Customized Salesforce.com applica]ons to meet business requirements, including building Web Forms.
+- Created Custom Objects and defined lookup, master-detail, and junc]on object rela]onships to establish many-to-
+many rela]onships among objects.
+- Developed complex reports and dashboards using HTML, PDF, Apex, Visualforce, and mail merge.
+- Migrated data from legacy systems using Apex Data Loader.
+- Used SOQL and SOSL for data manipula]on across plaeorm database objects, with aken]on to Governor Limits.
+- Implemented Sales Cloud, Service Cloud, and Web Services, including Group and Deal Room provisioning for
+marke]ng teams.
+- Contributed to the design and development of a custom Salesforce CRM solu]on for service delivery.
+
+---
+
 ### Programmer Analyst
 
 **Cognizant Technology Solutions**  
@@ -73,24 +100,23 @@ I enjoy building scalable Salesforce applications, integrating enterprise system
 
 ---
 
-### Backend Developer Intern
 
-**Think Swift**  
-📍 Toronto, Canada | Jan 2025 – Apr 2025
+### Salesforce Developer/Admin
 
-- Developed RESTful APIs and microservices using Spring Boot and MySQL.
-- Implemented JWT authentication and email notification services.
-- Participated in sprint planning, backlog grooming, and code reviews.
+**Veracity IT**  
+📍 Pune, India | Apr 2020 – July 2021
 
----
-
-### Web Developer Intern
-
-**JS Environics**  
-📍 Gurugram, India | Apr 2020 – Jun 2020
-
-- Developed WordPress and WooCommerce solutions.
-- Optimized website performance and managed backend databases.
+- Configured Salesforce.com application setup and customized Sales Cloud and Service Cloud modules to align with
+organizational functional needs.
+- Developed Apex triggers and Apex classes to address various functional requirements within the application.
+- Built Lightning Components on Lightning Pages using the Salesforce Lightning Design System to enhance user
+interface and experience.
+- Used SOQL and SOSL for data manipulation and retrieval across platform database objects.
+- Configured users, hierarchical roles, profiles, and security controls, including custom fields as required.
+- Developed custom reports, dashboards, and report folders for different user profiles, providing visibility to
+Compliance and Security teams on data and role transparency.
+- Used Data Loader for bulk insert, update, import, and export of Salesforce data.
+- Collaborated with clients to deliver daily, weekly, and monthly reporting requirements.
 
 ---
 
