@@ -44,7 +44,7 @@ I enjoy building scalable Salesforce applications, integrating enterprise system
 
 ### AI Agentforce
 
-- Ageneorce Builder (topics, ac]ons, instruc]ons configura]on), Prompt Builder (prompt templates, grounding with merge fields), Agent Actions
+- Ageneorce Builder (topics, actions, instructions configuration), Prompt Builder (prompt templates, grounding with merge fields), Agent Actions
 
 ### Integration & APIs
 
@@ -68,20 +68,20 @@ I enjoy building scalable Salesforce applications, integrating enterprise system
 📍 Toronto, Canada | Jan 2025 – Current
 
 - Designed, developed, and deployed Apex Classes, Controller Extensions, Triggers, and Test Classes to support LWC
-page development and various func]onal and integra]on-specific business requirements.
-- Developed Lightning Web Components with custom Apex Classes to extend applica]on func]onality, including email
+page development and various functional and integration-specific business requirements.
+- Developed Lightning Web Components with custom Apex Classes to extend application functionality, including email
 templates and inbound email handling for clients and customers.
-- Created detailed data mapping documents for integra]ng Salesforce.com with external systems.
+- Created detailed data mapping documents for integrating Salesforce.com with external systems.
 - Integrated Salesforce with legacy systems using Apex Web Services, outbound messaging, and REST API callouts.
-- Customized Salesforce.com applica]ons to meet business requirements, including building Web Forms.
-- Created Custom Objects and defined lookup, master-detail, and junc]on object rela]onships to establish many-to-
-many rela]onships among objects.
+- Customized Salesforce.com applications to meet business requirements, including building Web Forms.
+- Created Custom Objects and defined lookup, master-detail, and junction object relationships to establish many-to-
+many relationships among objects.
 - Developed complex reports and dashboards using HTML, PDF, Apex, Visualforce, and mail merge.
 - Migrated data from legacy systems using Apex Data Loader.
-- Used SOQL and SOSL for data manipula]on across plaeorm database objects, with aken]on to Governor Limits.
+- Used SOQL and SOSL for data manipulation across plaeorm database objects, with attention to Governor Limits.
 - Implemented Sales Cloud, Service Cloud, and Web Services, including Group and Deal Room provisioning for
-marke]ng teams.
-- Contributed to the design and development of a custom Salesforce CRM solu]on for service delivery.
+marketing teams.
+- Contributed to the design and development of a custom Salesforce CRM solution for service delivery.
 
 ---
 
