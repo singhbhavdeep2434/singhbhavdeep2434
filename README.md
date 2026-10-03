@@ -15,7 +15,7 @@
 
 ## 💡 About Me
 
-Salesforce Platform Engineer with 4+ years of experience designing, developing, and deploying enterprise Salesforce solutions. Experienced in Apex, Lightning Web Components (LWC), Salesforce integrations, platform automation, and Agile delivery.
+Salesforce Platform Engineer with experience in designing, developing, and deploying enterprise Salesforce solutions. Experienced in Apex, Lightning Web Components (LWC), Salesforce integrations, platform automation, and Agile delivery.
 
 I enjoy building scalable Salesforce applications, integrating enterprise systems, and exploring AI-powered solutions using Agentforce and Salesforce AI technologies.
 
